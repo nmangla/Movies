@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_4e5e139011f81c720514c833e427c002139ef28f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_fa754177a20e925bc44ed8a805e16caaf6eb90e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_ebec7695bfd02c9eb8e0e919c3e4cfcb8055cfbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_ea1e4e1d4b2a826b3d86078335b40af6456656ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a90429271efe7955b1ee461729fa46e524266e84">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a1ce11e26d4f0e43046d61d72b0769c9bb2bd6f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_e647adf63fbf7351e094fa41cecf3483a9e32aed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93d1a36d97da383238d4eb6c39209fef56d5b33b">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a147460f4ed94b09cb4e3863e331549689bc6d0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_05fdafa96b25f9c3a18f277595bd9023c3e1d45e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_6928f13204333ec3b1f1a85b34c4a967a1bf21a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_d4948729677939dad7913a73a4300737c2a29269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/eventbus-3.0.0_11649f3391cf52535dc867d726e441ea9751e2fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_7d7b0153c98e6db6c679788fa59c1aaf17ae1fc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_a36f2123d6a8d3f900aa3c2850dae1f3982c060f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_0fe5342142366d40e912846ed61700bc9cfc6c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.2.0/a56f28d5b7fab623c6c1d2afa08dd496d873ac21/logging-interceptor-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a56f28d5b7fab623c6c1d2afa08dd496d873ac21">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.2.0_00f9bb3f5d37378d32d405a2160d8953a4b0d5f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.1_156d5f985817ea6001522ee04424a26f0cfb9195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_48c1ce033c883dbd6fb5890e928720b9071b5a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_c64ff2a3609d997d3c69cb2eb88e40d3661bee64/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_38ffa88d91e9acdb395736a6bd8d716cd4fcb3c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_3048951c02ce36f1f2226e8b9bc4c1970f46b5db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_d2fdda4efbad342144859792768424a088432241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_b4063fe14547989abc385f3b230499d4a9e4c42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_59b5c97cdf6e5af9662fd5f742ee3c39aad6dc96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/private/var/root/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/Users/nmangla/AndroidStudioProjects/Movies/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.1_ca0ffd83588c62a40b3ba1d10fd17fd5dc8dc6ba/classes.dex" />
+    </item>
+
+</items>
